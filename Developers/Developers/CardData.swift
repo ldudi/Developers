@@ -19,14 +19,6 @@ let cardData: [Card] = [
          gradientColors: [Color("Color01"), Color("Color01")]
     ),
     Card(
-      title: "SwiftUI 2",
-      headline: "Better apps. Less code.",
-      imageName: "developer-no1",
-      callToAction: "Design",
-      message: "Introducing a modern way to design user interfaces for any Apple devices.",
-      gradientColors: [Color("Color01"), Color("Color02")]
-    ),
-    Card(
       title: "iOS 14",
       headline: "Dramatic new look.",
       imageName: "developer-no2",
